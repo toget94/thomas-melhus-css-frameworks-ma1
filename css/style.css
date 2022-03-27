@@ -1,0 +1,23 @@
+.active {
+  color: #c32c72;
+}
+
+body {
+  background-color: #e5e5e5;
+  font-family: "Open Sans", sans-serif;
+}
+
+.container {
+  margin: 40em;
+}
+
+footer {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  margin: 1rem;
+}
+/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,14 @@
+{
+    "version": 3,
+    "mappings": "AEAA,AAAA,OAAO,CAAC;EACN,KAAK,EDIO,OAAO;CCHpB;;ACFD,AAAA,IAAI,CAAC;EACH,gBAAgB,EFEE,OAAO;EEDzB,WAAW,EFFE,WAAW,EAAE,UAAU;CEGrC;;AAED,AAAA,UAAU,CAAC;EACT,MAAM,EAAE,IAAI;CACb;;ACPD,AAAA,MAAM,CAAC;EACL,OAAO,EAAE,IAAI;EACb,eAAe,EAAE,aAAa;EAC9B,MAAM,EAAE,IAAI;CACb",
+    "sources": [
+        "../sass/style.scss",
+        "../sass/partials/_variables.scss",
+        "../sass/partials/_nav.scss",
+        "../sass/partials/_base.scss",
+        "../sass/partials/_footer.scss",
+        "../sass/partials/_cards.scss"
+    ],
+    "names": [],
+    "file": "style.css"
+}
